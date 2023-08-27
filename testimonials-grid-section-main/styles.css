@@ -1,6 +1,11 @@
 .attribution { font-size: 11px; text-align: center; }
 .attribution a { color: hsl(228, 45%, 44%); }
 
+
+/*am reusit sa fac toate cardurile sa arate ca in imaginea data insa nu reusesc 
+sa ble asez in pagina. ori am un spatiu prea mare intre carduri
+ori prea mic si sunt inghesuite. nu am reusit sa imi dau seama ce ar trebui modificat pentru
+a le putea incadra corespunzator*/
 body{
     font-family: 'Barlow Semi Condensed';
     font-size: 13px;
